@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/rdd/src/test/resources/graph_sample.txt,/home/raj/scala/rdd/target/scala-2.10/test-classes/graph_sample.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/rdd/src/test/resources/sample.txt,/home/raj/scala/rdd/target/scala-2.10/test-classes/sample.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/rdd/src/test/resources/countrycodes.csv,/home/raj/scala/rdd/target/scala-2.10/test-classes/countrycodes.csv)[0m

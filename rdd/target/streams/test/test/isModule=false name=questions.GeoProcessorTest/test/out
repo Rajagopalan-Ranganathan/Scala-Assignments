@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0m[32mGeoProcessorTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mfilterData[0m[0m
+[0m[[0minfo[0m] [0m[32m- should filter out unnecessary fields and return RDD[Array[String]][0m[0m
+[0m[[0minfo[0m] [0m[32mfilterElevation[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an RDD[Int] containing elevation information about given continent[0m[0m
+[0m[[0minfo[0m] [0m[32melevationAverage[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calculate the average[0m[0m
+[0m[[0minfo[0m] [0m[32mmostCommonWords[0m[0m
+[0m[[0minfo[0m] [0m[32m- should produce an ordered wordcount[0m[0m
+[0m[[0minfo[0m] [0m[32mmostCommonCountry[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the most common country name[0m[0m
+[0m[[0minfo[0m] [0m[32mHotelsInArea[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calculate how many hotels are within 10km from target area[0m[0m
+[0m[[0minfo[0m] [0m[32mloadSocial[0m[0m
+[0m[[0minfo[0m] [0m[32m- should produce a graphx graph[0m[0m
+[0m[[0minfo[0m] [0m[32mmostActiveUser[0m[0m
+[0m[[0minfo[0m] [0m[32m- should tell which user has the most connections outwards[0m[0m
+[0m[[0minfo[0m] [0m[32mpageRankHighest[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calculate the pageRank and return the most "famous" user[0m[0m

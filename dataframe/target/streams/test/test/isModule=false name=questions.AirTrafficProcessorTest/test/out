@@ -1,0 +1,30 @@
+[0m[[0minfo[0m] [0m[32mAirTrafficProcessorTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m+ ----------------------[0m[0m
+[0m[[0minfo[0m] [0m[32musing sample.csv file[0m[0m
+[0m[[0minfo[0m] [0m[32m---------------------- [0m[0m
+[0m[[0minfo[0m] [0m[32mloadDataAndRegister[0m[0m
+[0m[[0minfo[0m] [0m[32m- should load the csv file register it as a table 'airtraffic' and finally return a DataFrame[0m[0m
+[0m[[0minfo[0m] [0m[32mflightCount[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calculate the total flighttime per airplane[0m[0m
+[0m[[0minfo[0m] [0m[32mcancelledDueToSecurity[0m[0m
+[0m[[0minfo[0m] [0m[32m- should produce a DataFrame having all of the flights which were cancelled due to security[0m[0m
+[0m[[0minfo[0m] [0m[32mlongestWeatherDelay[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calculate the maximux weather delay[0m[0m
+[0m[[0minfo[0m] [0m[32mdidNotFly[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calculate which airliners didn't fly[0m[0m
+[0m[[0minfo[0m] [0m[32mflightsFromVegasToJFK[0m[0m
+[0m[[0minfo[0m] [0m[32m- should tell which airliners travel from Vegas to JFK and how often[0m[0m
+[0m[[0minfo[0m] [0m[32mtimeSpentTaxiing[0m[0m
+[0m[[0minfo[0m] [0m[31m- should tell by airport how long airplanes taxi by average *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Array((PIT,5.0), (CVG,6.166666666666667), (ATL,9.0), (TPA,9.25), (LGA,10.0), (BWI,11.0), (MCO,11.0), (SNA,14.5), (SLC,14.5), (PHL,17.0)) did not equal Array((CVG,6.166666666666667), (TPA,9.25), (SNA,14.5), (SLC,14.5)) (AirTrafficProcessorTest.scala:108)[0m[0m
+[0m[[0minfo[0m] [0m[32mdistanceMedian[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calculate median distance[0m[0m
+[0m[[0minfo[0m] [0m[32mscore95[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calculate CarrierDelay below which are 95% of the observations.[0m[0m
+[0m[[0minfo[0m] [0m[32mcancelledFlights[0m[0m
+[0m[[0minfo[0m] [0m[32m- should tell how likely is it that flight will be cancelled in a specific airport[0m[0m
+[0m[[0minfo[0m] [0m[32mleastSquares[0m[0m
+[0m[[0minfo[0m] [0m[32m- should estimate the WeatherDelay[0m[0m
+[0m[[0minfo[0m] [0m[32mrunningAverage[0m[0m
+[0m[[0minfo[0m] [0m[31m- should calculate the running average for DepDelay *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Array([2008-05-10,3.7]) did not equal Array([2008-05-10,3.7]) (AirTrafficProcessorTest.scala:131)[0m[0m

@@ -1,0 +1,330 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/raj/scala/dataframe/target/scala-2.10/test-classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+27 items
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anon$1.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$1$$anonfun$13.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$1$$anonfun$apply$mcV$sp$1.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$1.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$10$$anonfun$apply$mcV$sp$6.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$10.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$11.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$12.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$2$$anonfun$14.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$2$$anonfun$15.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$2$$anonfun$16.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$2.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$3$$anonfun$apply$mcV$sp$2.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$3.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$4$$anonfun$apply$mcV$sp$3.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$4.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$5$$anonfun$apply$mcV$sp$4.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$5.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$6$$anonfun$apply$mcV$sp$5.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$6.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$7$$anonfun$apply$mcV$sp$7.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$7.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$8$$anonfun$apply$mcV$sp$8.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$8.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$9$$anonfun$apply$mcV$sp$9.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$9.class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest.class
+binary dependencies:
+6 items
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/.ivy2/cache/org.apache.spark/spark-catalyst_2.10/jars/spark-catalyst_2.10-2.2.0.jar
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-2.2.0.jar
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/.ivy2/cache/org.scalatest/scalatest_2.10/jars/scalatest_2.10-2.0.jar
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /home/raj/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+1 items
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessor
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+27 items
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anon$1
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$1
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$1$$anonfun$13
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$1$$anonfun$apply$mcV$sp$1
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$10
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$10$$anonfun$apply$mcV$sp$6
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$11
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$12
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$2
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$2$$anonfun$14
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$2$$anonfun$15
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$2$$anonfun$16
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$3
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$3$$anonfun$apply$mcV$sp$2
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$4
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$4$$anonfun$apply$mcV$sp$3
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$5
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$5$$anonfun$apply$mcV$sp$4
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$6
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$6$$anonfun$apply$mcV$sp$5
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$7
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$7$$anonfun$apply$mcV$sp$7
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$8
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$8$$anonfun$apply$mcV$sp$8
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$9
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions.AirTrafficProcessorTest$$anonfun$9$$anonfun$apply$mcV$sp$9
+used names:
+162 items
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> $anon
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> <byname>
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> <init>
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> <refinement>
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> <repeated>
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> ?0
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> A
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> AirTrafficProcessor
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> AirTrafficProcessorTest
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Any
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> AnyRef
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> AnyShouldWrapper
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> AppendedClues
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Array
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> ArrayOps
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> B
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> BeWord
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Boolean
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Builder
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> CanBuildFrom
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Catalog
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Class
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> ClassTag
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Clueful
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> DataFrame
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> DataFrameReader
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Double
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Equality
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> FlatSpec
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Function1
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Function3
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> GivenWhenThen
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> GrainOfTime
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> InAndIgnoreMethods
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> IndexedSeq
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Informer
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Int
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Interruptor
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Level
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Logger
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Long
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Matcher
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> MatcherFactory1
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Matchers
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Nothing
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> OFF
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Object
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Option
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Ordering
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Predef
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> ResultOfStringPassedToVerb
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Row
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Seq
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Set
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Span
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> SpanSugar
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> SparkSession
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> String
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> StringOps
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> StringShouldWrapperForVerb
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> T
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> T1
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> T2
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> TYPECLASS1
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> That
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Thread
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> TimeLimitedTests
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Tuple2
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> URL
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> Unit
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> _$4
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> _$6
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> _1
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> _2
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> airportPath
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> apache
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> appName
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> apply
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> augmentString
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> be
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> builder
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> canBuildFrom
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> cancelledDueToSecurity
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> cancelledFlights
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> carrierPath
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> catalog
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> collect
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> concurrent
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> config
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> convertIntToGrainOfTime
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> convertToAnyShouldWrapper
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> convertToClueful
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> convertToInAndIgnoreMethods
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> convertToStringShouldWrapper
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> count
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> createOrReplaceTempView
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> deep
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> default
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> defaultTestInterruptor
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> df
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> df2
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> didNotFly
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> distanceMedian
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> drop
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> equal
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> flightCount
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> flightPath
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> flightsFromVegasToJFK
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> getClass
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> getDouble
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> getLogger
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> getLong
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> getOrCreate
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> getResource
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> getString
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> implicits
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> in
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> info
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> isEmpty
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> java
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> lang
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> leastSquares
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> loadDataAndRegister
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> log4j
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> longestWeatherDelay
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> map
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> master
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> materializeClassTag
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> math
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> org
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> package
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> parquet
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> processor
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> qual$1
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> questions
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> read
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> refArrayOps
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> res
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> runningAverage
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> scala
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> scalatest
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> scalautils
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> score95
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> seconds
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> setLevel
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> shorthandTestRegistrationFunction
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> should
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> sortBy
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> spark
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> sql
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> stop
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> tableExists
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> testThread
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> time
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> timeSpentTaxiing
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> toSeq
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> toSet
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> toString
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> withClue
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> x
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> x$4
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> x$5
+product stamps:
+27 items
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anon$1.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$1$$anonfun$13.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$1.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$10$$anonfun$apply$mcV$sp$6.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$10.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$11.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$12.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$2$$anonfun$14.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$2$$anonfun$15.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$2$$anonfun$16.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$2.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$3$$anonfun$apply$mcV$sp$2.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$3.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$4$$anonfun$apply$mcV$sp$3.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$4.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$5$$anonfun$apply$mcV$sp$4.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$5.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$6$$anonfun$apply$mcV$sp$5.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$6.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$7$$anonfun$apply$mcV$sp$7.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$7.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$8$$anonfun$apply$mcV$sp$8.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$8.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$9$$anonfun$apply$mcV$sp$9.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest$$anonfun$9.class -> lastModified(1509914162000)
+/home/raj/scala/dataframe/target/scala-2.10/test-classes/questions/AirTrafficProcessorTest.class -> lastModified(1509914162000)
+source stamps:
+1 items
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> hash(79f86f517f60c795a2f8883f93a9760e1f24bb77)
+binary stamps:
+6 items
+/home/raj/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> lastModified(1338025419000)
+/home/raj/.ivy2/cache/org.apache.spark/spark-catalyst_2.10/jars/spark-catalyst_2.10-2.2.0.jar -> lastModified(1498869339000)
+/home/raj/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-2.2.0.jar -> lastModified(1498869446000)
+/home/raj/.ivy2/cache/org.scalatest/scalatest_2.10/jars/scalatest_2.10-2.0.jar -> lastModified(1383235815000)
+/home/raj/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1506731834000)
+class names:
+6 items
+/home/raj/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> org.apache.log4j.Level
+/home/raj/.ivy2/cache/org.apache.spark/spark-catalyst_2.10/jars/spark-catalyst_2.10-2.2.0.jar -> org.apache.spark.sql.Row
+/home/raj/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-2.2.0.jar -> org.apache.spark.sql.Dataset
+/home/raj/.ivy2/cache/org.scalatest/scalatest_2.10/jars/scalatest_2.10-2.0.jar -> org.scalatest.concurrent.TimeLimitedTests
+/home/raj/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.math.Ordering$
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwQZaKaAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAApzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDkHHogdAAaY29udmVydFRvU3RyaW5nTXVzdFdyYXBwZXJzcQB+AAtYoPu4dAAZY29udmVydFRvU3RyaW5nQ2FuV3JhcHBlcnNxAH4AC/bJV+90ABJjb252ZXJ0VG9FcXVhbGl6ZXJzcQB+AAu/ZYWgdAAoY29udmVydFRvSW5BbmRJZ25vcmVNZXRob2RzQWZ0ZXJUYWdnZWRBc3NxAH4AC7wroN90ACdzaG9ydGhhbmRTaGFyZWRUZXN0UmVnaXN0cmF0aW9uRnVuY3Rpb25zcQB+AAswtAU4dAAVdW5jb25zdHJhaW5lZEVxdWFsaXR5c3EAfgALvPNs4HQAG2NvbnZlcnRUb0luQW5kSWdub3JlTWV0aG9kc3NxAH4ACxmn1jx0ABxjb252ZXJ0VG9TdHJpbmdTaG91bGRXcmFwcGVyc3EAfgALm+8ZGHQAEGNvbnZlcnRUb0NsdWVmdWxzcQB+AAv/19N/dAAhc2hvcnRoYW5kVGVzdFJlZ2lzdHJhdGlvbkZ1bmN0aW9udXEAfgAJAAAAjHNxAH4AC+zVd8F0AAZhc3NlcnRzcQB+AAsTvRA4dAAGbm90aWZ5c3EAfgALGyTTxHQAJmxvd1ByaW9yaXR5Q29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgAL//wC83QAEEFzc2VydGlvbnNIZWxwZXJzcQB+AAtwT+IhdAAGY2FuY2Vsc3EAfgALvAAT8nQAEWV4ZWN1dGUkZGVmYXVsdCQyc3EAfgALvrFIqXQADGV4cGVjdFJlc3VsdHNxAH4AC5MRgFx0AAlpbnRlcmNlcHRzcQB+AAt0uFBjdAAEZmFpbHNxAH4ACzzGQ7x0ABRJdFZlcmJTdHJpbmdUYWdnZWRBc3NxAH4ACzgYSfV0AARuYW1lc3EAfgAL9D4i+XQAAmluc3EAfgALvuPxqHQAEWV4ZWN1dGUkZGVmYXVsdCQ0c3EAfgALDnIUX3QAAmlzc3EAfgALpWzLp3QAB2V4ZWN1dGVzcQB+AAt/V/a9dAAEd2FpdHNxAH4ACytsUu90AAt0ZXN0RGF0YUZvcnNxAH4ACyrckvp0ABNjcmVhdGVDYXRjaFJlcG9ydGVyc3EAfgALNWAvHnQACXN0eWxlTmFtZXNxAH4ACxsO9UV0AA1sZWZ0U2lkZVZhbHVlc3EAfgALDesDAHQADSRhc0luc3RhbmNlT2ZzcQB+AAtvj0KIdAAFZ2l2ZW5zcQB+AAsril/FdAARZXhlY3V0ZSRkZWZhdWx0JDNzcQB+AAv2OwqCdAALY2FycmllclBhdGhzcQB+AAubYvrSdAAJY29uZmlnTWFwc3EAfgALYXFELnQABmVxdWFsc3NxAH4AC7oe5ql0ACxjb252ZXJ0RXF1aXZhbGVuY2VUb0FUb0JDb252ZXJzaW9uQ29uc3RyYWludHNxAH4ACy8SPMp0AA9kZWZhdWx0RXF1YWxpdHlzcQB+AAuyUpckdAAiY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29uc3RyYWludHNxAH4ACzf1ONN0AARtdXN0c3EAfgALqkwMm3QABHRhZ3NzcQB+AAtGrvHldAAMYXNJbnN0YW5jZU9mc3EAfgAL2v5GrnQABWFsZXJ0c3EAfgALD6hxK3QAA3J1bnNxAH4ACy3meYB0AA9MZWdhY3lFcXVhbGl6ZXJzcQB+AAvfJLL0dAAGc2NvcGVzc3EAfgALOraszHQAGGNvbnZlcnRUb0xlZ2FjeUVxdWFsaXplcnNxAH4AC4LLvM90AAxzeW5jaHJvbml6ZWRzcQB+AAvLOB65dAAEbGVmdHNxAH4AC+NuJJ50AAJpdHNxAH4AC7nTv9N0AANBbmRzcQB+AAvrHRORdAANJGlzSW5zdGFuY2VPZnNxAH4AC2dJPzx0AAR0cmFwc3EAfgALHgSbUXQAFXRlc3REYXRhRm9yJGRlZmF1bHQkMnNxAH4AC0vsl0B0ABJJbkFuZElnbm9yZU1ldGhvZHNzcQB+AAud89pFdAAMYXNzZXJ0UmVzdWx0c3EAfgALTtNgz3QAF1N0cmluZ0NhbldyYXBwZXJGb3JWZXJic3EAfgALbBrfqnQABHRleHRzcQB+AAsoqDOmdAAsY29udmVydEVxdWl2YWxlbmNlVG9CVG9BQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAumw5UPdAAEVGhlbnNxAH4AC/fT+iB0AAR0aGV5c3EAfgALtDrrZnQAEWV4ZWN1dGUkZGVmYXVsdCQ3c3EAfgALIsXWnnQAFXR5cGVDaGVja2VkQ29uc3RyYWludHNxAH4ACxe05tZ0AAMhPT1zcQB+AAvnPonCdAAEaW5mb3NxAH4AC35zFzZ0AAlub3RpZnlBbGxzcQB+AAsGdDEYdAAMSXRWZXJiU3RyaW5nc3EAfgALU4uUkHQAC3dpdGhGaXh0dXJlc3EAfgALtK3rYnQAB3J1blRlc3RzcQB+AAv0yVwbdAAMaXNJbnN0YW5jZU9mc3EAfgALKEykWXQACHdpdGhDbHVlc3EAfgALvlU5e3QAEGFzc2VydGlvbnNIZWxwZXJzcQB+AAttqgPhdAAWZGVmYXVsdFRlc3RJbnRlcnJ1cHRvcnNxAH4AC/VyZ/h0ABFleGVjdXRlJGRlZmF1bHQkNnNxAH4AC+ZgY1p0AAh0YWdnZWRBc3NxAH4AC9tqQnZ0AAZtYXJrdXBzcQB+AAtI2RaIdAAIbGVmdFNpZGVzcQB+AAt2cV1fdAAGPGluaXQ+c3EAfgALhFsVFXQAC21hY3JvQXNzdW1lc3EAfgALg62GYHQAD3J1bk5lc3RlZFN1aXRlc3NxAH4AC5hWd090AANjYW5zcQB+AAs+OXr6dAAGSXRXb3Jkc3EAfgAL7WyvQnQABWFwcGx5c3EAfgALW4lA1nQACUVxdWFsaXplcnNxAH4ACx2DVrp0AAVzcGFya3NxAH4ACxku84N0ABtuZXdBc3NlcnRpb25GYWlsZWRFeGNlcHRpb25zcQB+AAuMsN+SdAAJcHJvY2Vzc29yc3EAfgALAZ7EiHQABG5vdGVzcQB+AAufMOlJdAACPT1zcQB+AAt7DhFjdAAKZmxpZ2h0UGF0aHNxAH4AC4/X9Vx0AB9JbkFuZElnbm9yZU1ldGhvZHNBZnRlclRhZ2dlZEFzc3EAfgALCQCkinQABHRoZW5zcQB+AAv4h/YidAAFY2xvbmVzcQB+AAtW55GMdAAMQmVoYXZpb3JXb3Jkc3EAfgALppR41HQABmV4cGVjdHNxAH4AC6Vc8jp0AAZzaG91bGRzcQB+AAvcPlk8dAAXQWlyVHJhZmZpY1Byb2Nlc3NvclRlc3RzcQB+AAu44i/hdAAMbmVzdGVkU3VpdGVzc3EAfgAL2eIFyXQABmFzc3VtZXNxAH4AC6oTwP90AAYkaW5pdCRzcQB+AAuc2LjzdAAgbG93UHJpb3JpdHlUeXBlQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAu9UMoqdAAIVGhleVdvcmRzcQB+AAsHETcqdAARZXhlY3V0ZSRkZWZhdWx0JDVzcQB+AAtAIwIDdAACZGZzcQB+AAuEOTfJdAAHQ2x1ZWZ1bHNxAH4AC5E+s8h0AAM9PT1zcQB+AAv3maODdAAYbmV3VGVzdENhbmNlbGVkRXhjZXB0aW9uc3EAfgALO3DHv3QACHRvU3RyaW5nc3EAfgALC+SSAHQACXRlc3ROYW1lc3NxAH4ACxRddP90AAVHaXZlbnNxAH4AC0Slup50ABhTdHJpbmdNdXN0V3JhcHBlckZvclZlcmJzcQB+AAvy88hCdAARZXhlY3V0ZSRkZWZhdWx0JDFzcQB+AAvY1V9TdAACIT1zcQB+AAuB4PdbdAAXTGVnYWN5Q2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAupVLyHdAAYSWdub3JlVmVyYlN0cmluZ1RhZ2dlZEFzc3EAfgALo21TZnQACGdldENsYXNzc3EAfgAL391m03QABmJlaGF2ZXNxAH4AC3xnUFF0AAhydW5UZXN0c3NxAH4AC/I/38J0AAhiZWhhdmlvcnNxAH4AC0GNx/F0AARXaGVuc3EAfgALezGl93QAEXBlbmRpbmdVbnRpbEZpeGVkc3EAfgALVn/D73QADlRoZXlWZXJiU3RyaW5nc3EAfgALJOnWxXQAC2FpcnBvcnRQYXRoc3EAfgALK74OdHQAEWV4cGVjdGVkVGVzdENvdW50c3EAfgALOALCV3QACHJlcnVubmVyc3EAfgALm0AS8nQACXRpbWVMaW1pdHNxAH4AC7tlkMd0ACJjb252ZXJ0RXF1aXZhbGVuY2VUb0JUb0FDb25zdHJhaW50c3EAfgALJr5rwHQAAm5lc3EAfgALyg4YgHQAFlRoZXlWZXJiU3RyaW5nVGFnZ2VkQXNzcQB+AAtdAoMvdAARQ2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAs1sqKFdAAgY29udmVydFRvTGVnYWN5Q2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAsGmMVXdAAHcGVuZGluZ3NxAH4ACyW7gnl0AAR3aGVuc3EAfgALYjo0CXQABmlnbm9yZXNxAH4AC4bEp7J0ABBJZ25vcmVWZXJiU3RyaW5nc3EAfgALSdxRtnQAC21hY3JvQXNzZXJ0c3EAfgALWNidKnQAAmVxc3EAfgALbwHkxnQAG2dldE9iamVjdHNGb3JGYWlsdXJlTWVzc2FnZXNxAH4AC2Q3poV0ABpjb252ZXJ0VG9DaGVja2luZ0VxdWFsaXplcnNxAH4AC10Th0d0AAJvZnNxAH4ACy2QSAR0AANhbmRzcQB+AAvP7Jf/dAAJTm9BcmdUZXN0c3EAfgALHVHhR3QACklnbm9yZVdvcmRzcQB+AAu/NWX3dAACIyNzcQB+AAtcvI0+dAAaU3RyaW5nU2hvdWxkV3JhcHBlckZvclZlcmJzcQB+AAuuWXsrdAAIZmluYWxpemVzcQB+AAtIV3fGdAAbY29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgAL/DLJpnQACGhhc2hDb2Rlc3EAfgALdVEKFHQAB3N1aXRlSWRzcQB+AAvCIzpsdAAJc3VpdGVOYW1lc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAIXF1ZXN0aW9ucy5BaXJUcmFmZmljUHJvY2Vzc29yVGVzdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ACdzY2FsYS5yZWZsZWN0Lm1hY3Jvcy5pbnRlcm5hbC5tYWNyb0ltcGxzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgFDTAAJaW5oZXJpdGVkcQB+AUNMAAdwYXJlbnRzcQB+AUN4cQB+AWJzcQB+AV11cQB+AT4AAAAAc3EAfgFddXEAfgE+AAAAAHNxAH4BXXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAVc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4BYXQAEFRpbWVMaW1pdGVkVGVzdHNzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AWFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4BenQACXNjYWxhdGVzdHNxAH4BenQACmNvbmN1cnJlbnRzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Be3NxAH4BbnQAClN1aXRlTWl4aW5zcQB+AXJzcQB+AXV1cQB+AXgAAAADc3EAfgF6dAADb3Jnc3EAfgF6dAAJc2NhbGF0ZXN0cQB+AYNzcQB+AW50AA1BcHBlbmRlZENsdWVzcQB+AYZzcQB+AW50AA1HaXZlbldoZW5UaGVucQB+AYZzcQB+AW50AAhGbGF0U3BlY3EAfgGGc3EAfgFudAAMRmxhdFNwZWNMaWtlcQB+AYZzcQB+AW50AAtEb2N1bWVudGluZ3EAfgGGc3EAfgFudAAIQWxlcnRpbmdxAH4BhnNxAH4BbnQACU5vdGlmeWluZ3EAfgGGc3EAfgFudAAJSW5mb3JtaW5ncQB+AYZzcQB+AW50AAdDYW5WZXJic3EAfgFyc3EAfgF1dXEAfgF4AAAABHNxAH4BenQAA29yZ3NxAH4BenQACXNjYWxhdGVzdHNxAH4BenQABXdvcmRzcQB+AYNzcQB+AW50AAhNdXN0VmVyYnEAfgGfc3EAfgFudAAKU2hvdWxkVmVyYnEAfgGfc3EAfgFudAAFU3VpdGVxAH4BhnNxAH4BbnQADFNlcmlhbGl6YWJsZXNxAH4BcnNxAH4BdXVxAH4BeAAAAANzcQB+AXp0AARqYXZhc3EAfgF6dAACaW9xAH4Bg3NxAH4BbnQADUFic3RyYWN0U3VpdGVxAH4BhnNxAH4BbnQACkFzc2VydGlvbnNxAH4BhnNxAH4BbnQADFRyaXBsZUVxdWFsc3NxAH4BcnNxAH4BdXVxAH4BeAAAAANzcQB+AXp0AANvcmdzcQB+AXp0AApzY2FsYXV0aWxzcQB+AYNzcQB+AW50ABNUcmlwbGVFcXVhbHNTdXBwb3J0cQB+Ab1zcQB+AW50AAZPYmplY3RzcQB+AXJzcQB+AXV1cQB+AXgAAAADc3EAfgF6cQB+AbRzcQB+AXp0AARsYW5ncQB+AYNzcQB+AW50AANBbnlzcQB+AXJzcQB+AXV1cQB+AXgAAAACc3EAfgF6dAAFc2NhbGFxAH4Bg3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACXF1ZXN0aW9uc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX43lqpF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA4L2hvbWUvcmFqL3NjYWxhL2RhdGFmcmFtZS90YXJnZXQvc2NhbGEtMi4xMC90ZXN0LWNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR5+G9Rf2DHlaL4iD+TqXYOHyS7dw==
+external apis:
+1 items
+questions.AirTrafficProcessor -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwnVtMwAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAnc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwsd4ek3QABm5vdGlmeXNxAH4ADA+7nGV0AA5ydW5uaW5nQXZlcmFnZXNxAH4ADIJpx1h0AAR3YWl0c3EAfgAM5p75yHQAEGNhbmNlbGxlZEZsaWdodHNzcQB+AAwUyrsfdAANJGFzSW5zdGFuY2VPZnNxAH4ADMZH8aV0AAZlcXVhbHNzcQB+AAwlfPesdAAOZGlzdGFuY2VNZWRpYW5zcQB+AAzu1JwodAAMYXNJbnN0YW5jZU9mc3EAfgAMmQAT5XQAE2xvbmdlc3RXZWF0aGVyRGVsYXlzcQB+AAzTxEGfdAAMc3luY2hyb25pemVkc3EAfgAMjWL0xHQADWNhcnJpZXJzVGFibGVzcQB+AAwqSS6bdAANJGlzSW5zdGFuY2VPZnNxAH4ADBk7XHd0AAhhaXJwb3J0c3NxAH4ADHdWdxl0ABNsb2FkRGF0YUFuZFJlZ2lzdGVyc3EAfgAMDBsC4XQADGxlYXN0U3F1YXJlc3NxAH4ADI88RBp0AA1haXJwb3J0c1RhYmxlc3EAfgAMfoc/mHQACW5vdGlmeUFsbHNxAH4ADHxU7990AAxpc0luc3RhbmNlT2ZzcQB+AAxx/k3cdAAGPGluaXQ+c3EAfgAMd9VF8XQAEHRpbWVTcGVudFRheGlpbmdzcQB+AAzCPh2bdAAIY2FycmllcnNzcQB+AAxR04WYdAALZmxpZ2h0Q291bnRzcQB+AAy8hanQdAACPT1zcQB+AAyd65OgdAAFY2xvbmVzcQB+AAyEK/SLdAAKYWlyVHJhZmZpY3NxAH4ADDNvwbZ0ABNBaXJUcmFmZmljUHJvY2Vzc29yc3EAfgAMG2vrf3QACHRvU3RyaW5nc3EAfgAMYWrspXQAAiE9c3EAfgAMnGPTB3QACGdldENsYXNzc3EAfgAMxK/FlXQACWRpZE5vdEZseXNxAH4ADMEJNwF0AAJuZXNxAH4ADHTXrUl0ABZjYW5jZWxsZWREdWVUb1NlY3VyaXR5c3EAfgAMwYbXu3QAB3Njb3JlOTVzcQB+AAxNKPz8dAACZXFzcQB+AAyYY259dAACIyNzcQB+AAzDrrlSdAAIZmluYWxpemVzcQB+AAxWl8vxdAAIaGFzaENvZGVzcQB+AAwdqyqzdAAJc3R1ZGVudElkc3EAfgAM6gflBnQAFWZsaWdodHNGcm9tVmVnYXNUb0pGS3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB1xdWVzdGlvbnMuQWlyVHJhZmZpY1Byb2Nlc3NvcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB9c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4AgnNxAH4AfXVxAH4AYAAAAABzcQB+AH11cQB+AGAAAAAAc3EAfgB9dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCBdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCBc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCadAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCbc3EAfgCOdAADQW55c3EAfgCSc3EAfgCVdXEAfgCYAAAAAnNxAH4AmnQABXNjYWxhcQB+AKFzcQB+AGJxAH4Ab3VxAH4AcAAAAABzcQB+AHIAdAAdcXVlc3Rpb25zLkFpclRyYWZmaWNQcm9jZXNzb3J1cQB+AHUAAAAAfnEAfgB3dAAGTW9kdWxldXEAfgB7AAAAAHNxAH4AfXEAfgCDc3EAfgB9c3EAfgCFc3EAfgB9dXEAfgBgAAAAAHNxAH4AfXVxAH4AYAAAAABzcQB+AH11cQB+AIwAAAACc3EAfgCOcQB+AJFzcQB+AJJzcQB+AJV1cQB+AJgAAAADc3EAfgCacQB+AJ1zcQB+AJpxAH4An3EAfgChc3EAfgCOcQB+AKNzcQB+AJJzcQB+AJV1cQB+AJgAAAACc3EAfgCacQB+AKhxAH4AoXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACXF1ZXN0aW9uc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX43loy91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAzL2hvbWUvcmFqL3NjYWxhL2RhdGFmcmFtZS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUsX01ODtOPaETyQpqvd7hfg4deVM=
+source infos:
+1 items
+/home/raj/scala/dataframe/src/test/scala/questions/AirTrafficProcessorTest.scala -> 
+AAAAAAAAAAEAAAEAAAAhAB0gICAgICAgICAgICB0ZXN0VGhyZWFkLnN0b3AoKQEAAANZAQAAABcBABcgICAgICAgICAgICAgICAgICAgICAgIAEAUC9ob21lL3Jhai9zY2FsYS9kYXRhZnJhbWUvc3JjL3Rlc3Qvc2NhbGEvcXVlc3Rpb25zL0FpclRyYWZmaWNQcm9jZXNzb3JUZXN0LnNjYWxhAQBQL2hvbWUvcmFqL3NjYWxhL2RhdGFmcmFtZS9zcmMvdGVzdC9zY2FsYS9xdWVzdGlvbnMvQWlyVHJhZmZpY1Byb2Nlc3NvclRlc3Quc2NhbGEAWm1ldGhvZCBzdG9wIGluIGNsYXNzIFRocmVhZCBpcyBkZXByZWNhdGVkOiBzZWUgY29ycmVzcG9uZGluZyBKYXZhZG9jIGZvciBtb3JlIGluZm9ybWF0aW9uLgE=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX43lqpF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3Jhai9zY2FsYS9kYXRhZnJhbWUvdGFyZ2V0L3NjYWxhLTIuMTAvdGVzdC1jbGFzc2VzdAABLw==

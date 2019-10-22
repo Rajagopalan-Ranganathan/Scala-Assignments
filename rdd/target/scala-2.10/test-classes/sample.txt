@@ -1,0 +1,50 @@
+9795753	Courtyard Long Beach Downtown	Courtyard Long Beach Downtown		33.76801	-118.18572	S	HTL	US		CA	037			0		19	America/Los_Angeles	2014-11-05
+9795754	Comfort Inn & Suites Near Universal Studios	Comfort Inn & Suites Near Universal Studios		34.18204	-118.38508	S	HTL	US		CA	037			0		208	America/Los_Angeles	2014-11-05
+9795755	Best Western Meridian Inn & Suites. Anaheim-Orange	Best Western Meridian Inn & Suites. Anaheim-Orange		33.77628	-117.8908	S	HTL	US		CA	059			0		42	America/Los_Angeles	2014-11-05
+9795756	Eurostars Dylan	Eurostars Dylan		40.7521	-73.97882	S	HTL	US		NY	061			0		39	America/New_York	2014-11-05
+9795757	Best Western San Mateo Los Prados Inn	Best Western San Mateo Los Prados Inn		37.54443	-122.28571	S	HTL	US		CA	081			0		1	America/Los_Angeles	2014-11-05
+9795758	Americas Best Value Inn Extended Stay Civic Center Ex.Abigail	Americas Best Value Inn Extended Stay Civic Center Ex.Abigail		37.78075	-122.41607	S	HTL	US		CA	075			0		25	America/Los_Angeles	2014-11-05
+9795759	Holiday Inn Express Hotel & Suites San Francisco Fishermans Wharf	Holiday Inn Express Hotel & Suites San Francisco Fishermans Wharf		37.80626	-122.41628	S	HTL	US		CA	075			0		7	America/Los_Angeles	2014-11-05
+9795760	Aida Shared Bathroom	Aida Shared Bathroom		37.78072	-122.4121	S	HTL	US		CA	075			0		17	America/Los_Angeles	2014-11-05
+9795761	Citigarden Formerly Ramada Airport North	Citigarden Formerly Ramada Airport North		37.65447	-122.40798	S	HTL	US		CA	081			0		6	America/Los_Angeles	2014-11-05
+9795762	Holiday Inn Express & Suites Sfo North	Holiday Inn Express & Suites Sfo North		37.65538	-122.40752	S	HTL	US		CA	081			0		5	America/Los_Angeles	2014-11-05
+9795763	Holiday Inn In'Tl Airport	Holiday Inn In'Tl Airport		37.64685	-122.40428	S	HTL	US		CA	081			0		7	America/Los_Angeles	2014-11-05
+9795764	Galaxy Motel	Galaxy Motel		40.65659	-73.88925	S	HTL	US		NY	047			0		6	America/New_York	2014-11-05
+9795765	Ymca Greenpoint Shared Bathroom	Ymca Greenpoint Shared Bathroom		40.727	-73.95317	S	HTL	US		NY	047			0		8	America/New_York	2014-11-05
+9795766	Ymca Flushing Shared Bathroom	Ymca Flushing Shared Bathroom		40.76361	-73.82654	S	HTL	US		NY	081			0		21	America/New_York	2014-11-05
+9795767	Seton	Seton		40.74976	-73.9762	S	HTL	US		NY	061			0		13	America/New_York	2014-11-05
+9795768	The Roosevelt	The Roosevelt		40.7547	-73.97747	S	HTL	US		NY	061			0		29	America/New_York	2014-11-05
+9795769	The Village At Squaw Valley	The Village At Squaw Valley		39.19824	-120.23279	S	HTL	US		CA	061			0		1896	America/Los_Angeles	2014-11-05
+9795770	Ritz Carlton Highlands Lake Tahoe	Ritz Carlton Highlands Lake Tahoe		39.3567	-120.18798	S	HTL	US		CA	057			0		1967	America/Los_Angeles	2014-11-05
+9795771	The Tuscan A Kimpton Hotel	The Tuscan A Kimpton Hotel		37.8065	-122.41408	S	HTL	US		CA	075			0		8	America/Los_Angeles	2014-11-05
+9795774	Comfort Inn Watsonville	Comfort Inn Watsonville		36.93776	-121.77689	S	HTL	US		CA	087			0		37	America/Los_Angeles	2014-11-05
+9795775	Days Inn & Suites Santa Barbara	Days Inn & Suites Santa Barbara		34.42746	-119.70977	S	HTL	US		CA	083			0		43	America/Los_Angeles	2014-11-05
+9795776	Best Western Plus Pepper Tree	Best Western Plus Pepper Tree		34.4407	-119.7487	S	HTL	US		CA	083			0		61	America/Los_Angeles	2014-11-05
+9795777	Hyatt	Hyatt		34.41717	-119.6691	S	HTL	US		CA	083			0		9	America/Los_Angeles	2014-11-05
+9795779	Comfort Inn By The Bay - San F	Comfort Inn By The Bay - San F		37.80112	-122.42411	S	HTL	US		CA	075			0		41	America/Los_Angeles	2014-11-05
+9795780	Comfort Inn & Suites Airport	Comfort Inn & Suites Airport		37.65447	-122.40488	S	HTL	US		CA	081			0		5	America/Los_Angeles	2014-11-05
+9795782	Indigo Santa Barbara	Indigo Santa Barbara		34.41355	-119.69127	S	HTL	US		CA	083			0		6	America/Los_Angeles	2014-11-05
+9795783	Canary Hotel	Canary Hotel		34.42048	-119.70266	S	HTL	US		CA	083			0		25	America/Los_Angeles	2014-11-05
+9795784	Motel 6 Ventura Beach 218	Motel 6 Ventura Beach 218		34.26623	-119.27275	S	HTL	US		CA	111			0		6	America/Los_Angeles	2014-11-05
+9795785	Comfort Inn Ventura Beach	Comfort Inn Ventura Beach		34.26795	-119.27289	S	HTL	US		CA	111			0		5	America/Los_Angeles	2014-11-05
+9795786	Crowne Plaza Ventura	Crowne Plaza Ventura		34.27662	-119.29313	S	HTL	US		CA	111			0		14	America/Los_Angeles	2014-11-05
+9795787	Four Seasons The Biltmore Santa Barbara	Four Seasons The Biltmore Santa Barbara		34.4167	-119.64219	S	HTL	US		CA				0		26	America/Los_Angeles	2014-11-05
+9795788	Inn By The Harbor - Santa Barb	Inn By The Harbor - Santa Barb		34.40949	-119.69802	S	HTL	US		CA	083			0		11	America/Los_Angeles	2014-11-05
+9795789	Fess Parker'S Doubletree - San	Fess Parker'S Doubletree - San		34.41571	-119.67826	S	HTL	US		CA	083			0		3	America/Los_Angeles	2014-11-05
+9795791	Best Western Encinita Lodge	Best Western Encinita Lodge		34.43064	-119.72007	S	HTL	US		CA	083			0		50	America/Los_Angeles	2014-11-05
+9795792	Best Western Plus Pepper Tree Inn	Best Western Plus Pepper Tree Inn		34.4407	-119.7487	S	HTL	US		CA	083			0		61	America/Los_Angeles	2014-11-05
+9795793	Canary A Kimpton Hotel	Canary A Kimpton Hotel		34.421	-119.702	S	HTL	US		CA	083			0		22	America/Los_Angeles	2014-11-05
+9795794	Hotel Goleta - Santa Barbara	Hotel Goleta - Santa Barbara		34.4411	-119.82122	S	HTL	US		CA	083			0		17	America/Los_Angeles	2014-11-05
+9795795	Holiday Inn Express Santa Barbara	Holiday Inn Express Santa Barbara		34.41636	-119.69599	S	HTL	US		CA	083			0		11	America/Los_Angeles	2014-11-05
+9795796	Dolphin Bay Resort & Spa	Dolphin Bay Resort & Spa		35.16421	-120.68949	S	HTL	US		CA	079			0		24	America/Los_Angeles	2014-11-05
+9795797	Best Western Plus Sonora Oaks	Best Western Plus Sonora Oaks		37.97814	-120.33419	S	HTL	US		CA	109			0		653	America/Los_Angeles	2014-11-05
+9795798	Comfort Inn & Suites Sfo Airport	Comfort Inn & Suites Sfo Airport		37.65499	-122.40465	S	HTL	US		CA	081			0		6	America/Los_Angeles	2014-11-05
+9795799	Hilton Garden Inn San Francisco Arpt North	Hilton Garden Inn San Francisco Arpt North		37.6569	-122.401	S	HTL	US		CA	081			0		12	America/Los_Angeles	2014-11-05
+9795800	Embassy Suites San Fran	Embassy Suites San Fran		37.65082	-122.40417	S	HTL	US		CA	081			0		4	America/Los_Angeles	2014-11-05
+9795801	Best Western Plus Grosvenor Ai	Best Western Plus Grosvenor Ai		37.64381	-122.40425	S	HTL	US		CA	081			0		4	America/Los_Angeles	2014-11-05
+9795802	Comfort Inn & Suites San Franc	Comfort Inn & Suites San Franc		37.65483	-122.40524	S	HTL	US		CA	081			0		6	America/Los_Angeles	2014-11-05
+9795803	Days Inn San Francisco South Oyster Point Airport	Days Inn San Francisco South Oyster Point Airport		37.66366	-122.40075	S	HTL	US		CA	081			0		12	America/Los_Angeles	2014-11-05
+9795804	Baymont Inn & Suites Miami Airport West	Baymont Inn & Suites Miami Airport West		25.80923	-80.36934	S	HTL	US		FL	086			0		7	America/New_York	2014-11-05
+9795806	Best Western Premier Miami International Airport	Best Western Premier Miami International Airport		25.77172	-80.26293	S	HTL	US		FL	086			0		11	America/New_York	2014-11-05
+9795807	Residence Inn Miami Airport South	Residence Inn Miami Airport South		25.78389	-80.2632	S	HTL	US		FL	086			0		10	America/New_York	2014-11-05
+9795808	Ramada Inn Miami Airport North	Ramada Inn Miami Airport North		25.8652	-80.32159	S	HTL	US		FL	086			0		9	America/New_York	2014-11-05

@@ -1,0 +1,9 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(questions.AirTrafficProcessorTest, org.scalatest.tools.Framework$$anon$1@37566fad, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 12 seconds, 259 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 12[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 10, failed 2, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[31m*** 2 TESTS FAILED ***[0m[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	questions.AirTrafficProcessorTest[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

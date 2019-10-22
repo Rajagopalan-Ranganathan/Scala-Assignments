@@ -1,0 +1,9 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/dataframe/src/test/resources/sample.parquet,/home/raj/scala/dataframe/target/scala-2.10/test-classes/sample.parquet)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/dataframe/src/test/resources/carriers.csv,/home/raj/scala/dataframe/target/scala-2.10/test-classes/carriers.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/dataframe/src/test/resources/airports.csv,/home/raj/scala/dataframe/target/scala-2.10/test-classes/airports.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/dataframe/src/test/resources/sample.csv,/home/raj/scala/dataframe/target/scala-2.10/test-classes/sample.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/dataframe/src/test/resources/sample.parquet/part-r-00000-24fdebb9-ddb8-4067-a0c5-14390a676bd6.gz.parquet,/home/raj/scala/dataframe/target/scala-2.10/test-classes/sample.parquet/part-r-00000-24fdebb9-ddb8-4067-a0c5-14390a676bd6.gz.parquet)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/dataframe/src/test/resources/sample.parquet/_SUCCESS,/home/raj/scala/dataframe/target/scala-2.10/test-classes/sample.parquet/_SUCCESS)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/dataframe/src/test/resources/sample.parquet/part-r-00001-24fdebb9-ddb8-4067-a0c5-14390a676bd6.gz.parquet,/home/raj/scala/dataframe/target/scala-2.10/test-classes/sample.parquet/part-r-00001-24fdebb9-ddb8-4067-a0c5-14390a676bd6.gz.parquet)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/dataframe/src/test/resources/sample.parquet/_metadata,/home/raj/scala/dataframe/target/scala-2.10/test-classes/sample.parquet/_metadata)[0m

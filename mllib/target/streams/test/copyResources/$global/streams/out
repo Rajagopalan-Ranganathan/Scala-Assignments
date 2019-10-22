@@ -1,0 +1,8 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/mllib/src/test/resources/sample.parquet,/home/raj/scala/mllib/target/scala-2.11/test-classes/sample.parquet)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/mllib/src/test/resources/sample.data,/home/raj/scala/mllib/target/scala-2.11/test-classes/sample.data)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/mllib/src/test/resources/sample.parquet/part-r-00000-a86d8f10-8b35-44c1-87dc-45736e6611e3.gz.parquet,/home/raj/scala/mllib/target/scala-2.11/test-classes/sample.parquet/part-r-00000-a86d8f10-8b35-44c1-87dc-45736e6611e3.gz.parquet)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/mllib/src/test/resources/sample.parquet/_SUCCESS,/home/raj/scala/mllib/target/scala-2.11/test-classes/sample.parquet/_SUCCESS)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/mllib/src/test/resources/sample.parquet/_common_metadata,/home/raj/scala/mllib/target/scala-2.11/test-classes/sample.parquet/_common_metadata)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/mllib/src/test/resources/sample.parquet/_metadata,/home/raj/scala/mllib/target/scala-2.11/test-classes/sample.parquet/_metadata)[0m
+[0m[[0mdebug[0m] [0m	(/home/raj/scala/mllib/src/test/resources/sample.parquet/part-r-00001-a86d8f10-8b35-44c1-87dc-45736e6611e3.gz.parquet,/home/raj/scala/mllib/target/scala-2.11/test-classes/sample.parquet/part-r-00001-a86d8f10-8b35-44c1-87dc-45736e6611e3.gz.parquet)[0m

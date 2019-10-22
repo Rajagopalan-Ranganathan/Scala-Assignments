@@ -1,0 +1,24 @@
+ first_user_id | second_user_id 
+---------------+----------------
+             1 |             10
+            10 |              1
+             1 |             11
+            11 |              1
+             1 |             12
+(5 rows)
+
+    table_name     
+-------------------
+ api_accounts
+ cached_ratings
+ checkins
+ cities
+ friendships
+ chicago_users
+ tips
+ todos
+ users
+ venues
+ ratings
+ schema_migrations
+(12 rows)
